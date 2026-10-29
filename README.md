@@ -1,9 +1,9 @@
 <p align="center"><img src="assets/banner.png" alt="Top Venue Paper Writing — From evidence to a clear paper" width="100%"></p>
 
 <p align="center">
-  <a href="https://github.com/Shu-yin0/top-venue-paper-writing/actions/workflows/ci.yml"><img src="https://github.com/Shu-yin0/top-venue-paper-writing/actions/workflows/ci.yml/badge.svg" alt="Checks"></a>
+  <a href="https://github.com/Shu-yin0/top-venue-paper-writing/actions/workflows/ci.yml"><img src="https://github.com/Shu-yin0/top-venue-paper-writing/actions/workflows/ci.yml/badge.svg?branch=main" alt="Checks"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-264D42?style=flat-square" alt="MIT license"></a>
-  <a href="https://github.com/Shu-yin0/top-venue-paper-writing/releases"><img src="https://img.shields.io/github/v/release/Shu-yin0/top-venue-paper-writing?style=flat-square&color=264D42" alt="Latest release"></a>
+  <a href="https://github.com/Shu-yin0/top-venue-paper-writing/releases"><img src="https://img.shields.io/badge/release-v1.1.0-264D42?style=flat-square" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/Python-3.8%2B-264D42?style=flat-square" alt="Python 3.8 or newer">
 </p>
 
