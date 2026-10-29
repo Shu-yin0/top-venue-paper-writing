@@ -1,0 +1,16 @@
+name: Bug report
+description: Report an installation or paperlint issue.
+body:
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: Include the command, Python version, OS and a small synthetic input. Do not include private manuscript content.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true

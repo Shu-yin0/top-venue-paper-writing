@@ -1,0 +1,7 @@
+interface:
+  display_name: "Top Venue Paper Writing"
+  short_description: "Evidence-led ML paper drafting and review"
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#264D42"
+  default_prompt: "Use $top-venue-paper-writing to review my manuscript, preserve supported claims, and identify evidence gaps."

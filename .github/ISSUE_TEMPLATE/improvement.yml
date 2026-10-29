@@ -1,0 +1,10 @@
+name: Writing guide improvement
+description: Suggest a focused improvement to the skill or examples.
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Problem and proposed change
+      description: Explain the writing problem and give a synthetic example or public source.
+    validations:
+      required: true
