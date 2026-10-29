@@ -1,20 +1,20 @@
-<p align="center"><img src="assets/banner.png" alt="Top Venue Paper Writing — 从实验依据到清晰的论文" width="100%"></p>
+<p align="center"><img src="assets/banner.png" alt="CCF-A 论文写作 — 从实验依据到清晰的论文" width="100%"></p>
 
 <p align="center">
   <a href="https://github.com/Shu-yin0/top-venue-paper-writing/actions/workflows/ci.yml"><img src="https://github.com/Shu-yin0/top-venue-paper-writing/actions/workflows/ci.yml/badge.svg?branch=main" alt="自动检查"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-264D42?style=flat-square" alt="MIT 许可"></a>
-  <a href="https://github.com/Shu-yin0/top-venue-paper-writing/releases"><img src="https://img.shields.io/badge/release-v1.1.0-264D42?style=flat-square" alt="最新版本"></a>
+  <a href="https://github.com/Shu-yin0/top-venue-paper-writing/releases"><img src="https://img.shields.io/badge/release-v1.1.1-264D42?style=flat-square" alt="最新版本"></a>
   <img src="https://img.shields.io/badge/Python-3.8%2B-264D42?style=flat-square" alt="Python 3.8 及以上">
 </p>
 
 <p align="center"><a href="README.md">English</a> · <b>简体中文</b></p>
 <p align="center"><a href="#快速开始">快速开始</a> · <a href="#四种工作模式">工作模式</a> · <a href="docs/prompts.md">提示词示例</a> · <a href="examples/rewrites.md">改写示例</a></p>
 
-# Top Venue Paper Writing
+# CCF-A 论文写作
 
 **把实验依据，写成主张清楚、证据扎实的机器学习论文。**
 
-一个面向 CVPR、ICCV、ICLR、NeurIPS 风格实证论文的写作 Skill。它从「主张—证据台账」出发，按需处理各个章节，最后用可重复运行的检查辅助投稿准备。
+一个面向 CCF-A 会议与期刊投稿的论文写作 Skill，当前重点支持机器学习与计算机视觉领域的实证论文。它从「主张—证据台账」出发，按需处理各个章节，最后用可重复运行的检查辅助投稿准备。
 
 支持 **Codex 与 Claude Code**，也可以直接当作人工写作检查清单使用。写作指南适用于中文和英文；附带的检查工具主要面向英文及 LaTeX/Markdown 源文件。脚本无需 API Key，无需第三方 Python 依赖。
 

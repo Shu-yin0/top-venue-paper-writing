@@ -1,24 +1,24 @@
-<p align="center"><img src="assets/banner.png" alt="Top Venue Paper Writing — From evidence to a clear paper" width="100%"></p>
+<p align="center"><img src="assets/banner.png" alt="CCF-A Paper Writing — From evidence to a clear paper" width="100%"></p>
 
 <p align="center">
   <a href="https://github.com/Shu-yin0/top-venue-paper-writing/actions/workflows/ci.yml"><img src="https://github.com/Shu-yin0/top-venue-paper-writing/actions/workflows/ci.yml/badge.svg?branch=main" alt="Checks"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-264D42?style=flat-square" alt="MIT license"></a>
-  <a href="https://github.com/Shu-yin0/top-venue-paper-writing/releases"><img src="https://img.shields.io/badge/release-v1.1.0-264D42?style=flat-square" alt="Latest release"></a>
+  <a href="https://github.com/Shu-yin0/top-venue-paper-writing/releases"><img src="https://img.shields.io/badge/release-v1.1.1-264D42?style=flat-square" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/Python-3.8%2B-264D42?style=flat-square" alt="Python 3.8 or newer">
 </p>
 
 <p align="center"><b>English</b> · <a href="README.zh-CN.md">简体中文</a></p>
 <p align="center"><a href="#quick-start">Quick start</a> · <a href="#four-ways-to-use-it">Workflows</a> · <a href="docs/paperlint.md">CLI guide</a> · <a href="examples/rewrites.md">Before & after</a></p>
 
-# Top Venue Paper Writing
+# CCF-A Paper Writing
 
 **Turn experimental evidence into a clear, defensible ML paper.**
 
-An agent skill for drafting, rewriting and auditing empirical ML papers in the style of CVPR, ICCV, ICLR and NeurIPS. Start with a claim ledger, work through the sections that need attention, and finish with repeatable submission checks.
+An agent skill for drafting, rewriting and auditing papers targeting CCF-A conferences and journals, with a current focus on empirical machine learning and computer vision. Start with a claim ledger, work through the sections that need attention, and finish with repeatable submission checks.
 
 Use it in **Codex or Claude Code**, or read the checklists without an agent. The writing guides support English and Chinese; the optional linter focuses on English prose and LaTeX/Markdown source. No API key or third-party Python package is required by the included scripts.
 
-> A writing workflow, not an acceptance guarantee. Not affiliated with or endorsed by the venues above. Current venue rules take precedence over the suggested defaults.
+> A writing workflow, not an acceptance guarantee. Not affiliated with or endorsed by CCF or any venue. Current venue rules take precedence over the suggested defaults.
 
 ## What makes it useful
 

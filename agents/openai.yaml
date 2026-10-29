@@ -1,6 +1,6 @@
 interface:
-  display_name: "Top Venue Paper Writing"
-  short_description: "Evidence-led ML paper drafting and review"
+  display_name: "CCF-A 论文写作"
+  short_description: "Evidence-led CCF-A paper drafting and review"
   icon_small: "./assets/icon.png"
   icon_large: "./assets/icon.svg"
   brand_color: "#264D42"

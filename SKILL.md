@@ -1,9 +1,9 @@
 ---
 name: top-venue-paper-writing
-description: Draft, rewrite or audit empirical ML papers for CVPR, ICCV, ICLR and NeurIPS-style venues. Use for evidence-backed claims, section editing, whole-paper review and submission writing checks in English or Chinese.
+description: Draft, rewrite or audit papers targeting CCF-A conferences and journals, focusing on empirical machine learning and computer vision. Use for evidence-backed claims, section editing, whole-paper review and submission writing checks in English or Chinese.
 ---
 
-# Top-venue paper writing
+# CCF-A 论文写作 / CCF-A Paper Writing
 
 A working method for empirical ML papers: a claim ledger first, then section checklists with templates, then a whole-paper pass and scripted submission checks. English or Chinese text; the rules do not depend on the language. Provenance and how far to trust the rules: `references/sources-and-evidence.md`.
 
